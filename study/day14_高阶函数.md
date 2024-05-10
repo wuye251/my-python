@@ -108,4 +108,3 @@ mp3 = reduce(lambda x,y: x+y,ls)
 print(mp3)  # 15
 ```
 
-

@@ -55,3 +55,5 @@ date_str = "2023-12-31 12:30:59"
 new_date = datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S")
 print("now =", new_date)  #  2023-12-31 12:30:59
 ```
+
+
