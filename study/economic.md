@@ -45,3 +45,8 @@ out:
 (3, 'c', 'z')
 '''
 ```
+
+## package收集
+- numpy:数学计算库
+- pandas:数据分析库
+- scikit-learn:机器学习库
